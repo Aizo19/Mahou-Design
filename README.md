@@ -1,2 +1,2 @@
-# Mah-Design
+# Mahou Design
 website
